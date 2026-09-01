@@ -1,0 +1,22 @@
+{
+  "name": "Silva Detail | Estética Automotiva em Curitiba",
+  "short_name": "Silva Detail",
+  "description": "Estética automotiva em Curitiba: lavagem detalhada, polimento, higienização, micro pintura e martelinho de ouro.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "assets/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
